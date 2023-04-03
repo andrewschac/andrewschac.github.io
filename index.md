@@ -1,14 +1,7 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+Hi! My name is Andrew Schachter, and I am a student at Lehigh University majoring in Finance with minors in Business Information System and History.
+I am a motivated problem-solver and excited to use my skills to find solutions. I am interested in all types of finance and sports business and looking to learn more about my interests. 
 
 ---
 
