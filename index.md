@@ -9,7 +9,7 @@ I am a motivated problem-solver and excited to use my skills to find solutions. 
 
 <!-- analysis_report.md -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](analysis_report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
