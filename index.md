@@ -9,19 +9,13 @@ I am a motivated problem-solver and excited to use my skills to find solutions. 
 
 <!-- analysis_report.md -->
 
-_**[Natural language processing 10-Ks to identify risks](analysis_report.md)**_
+_**[Natural language processing 10-Ks to identify sentiment](analysis_report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_14_1.png?raw=true"/>
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+_**[Regression Practice](regression.md)**_
 
 ---
 
@@ -39,15 +33,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I want to get to a place in my career where I will be able to help people through business. I want to use my early career to gain the necessary skills in order to do so later in life. 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Some hobbies of mine include paying close attention to sports business, history, and learning more about leadership.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
