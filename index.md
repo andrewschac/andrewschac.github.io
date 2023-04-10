@@ -7,7 +7,7 @@ I am a motivated problem-solver and excited to use my skills to find solutions. 
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+<!-- analysis_report.md -->
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
